@@ -11,8 +11,8 @@ _Estas instrucciones te permitirán obtener una versión propia para realizar la
 
 _Necesita realizar una copia del archivo mediante la terminal con algunos de los siguientes comandos según desee:_
 
-Para wget: `wget -P ~ --no-check-certificate --content-disposition URL`  
-Para curl: `cd ~` y luego `curl -LJO URL`
+Para wget: `wget -P ~ --no-check-certificate --content-disposition https://raw.githubusercontent.com/JLykos/plantilla-cv/master/plantilla.html`  
+Para curl: `cd ~` y luego `curl -LJO https://raw.githubusercontent.com/JLykos/plantilla-cv/master/plantilla.html`
   
   
 ### ⚙️ Modificación ###
@@ -123,4 +123,4 @@ Cambie los valores de href para asignar la dirección y el fa-XXX para modificar
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.md](LICENSE.md) para detalles
