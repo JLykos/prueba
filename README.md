@@ -1,5 +1,10 @@
 # 📑 Plantilla para CV #
 
+[![GitHub license](https://img.shields.io/github/license/JLykos/plantilla-cv?style=for-the-badge)](https://github.com/JLykos/plantilla-cv/blob/master/LICENSE.md)
+[![GitHub issues](https://img.shields.io/github/issues/JLykos/plantilla-cv?style=for-the-badge)](https://github.com/JLykos/plantilla-cv/issues)
+[![GitHub forks](https://img.shields.io/github/forks/JLykos/plantilla-cv?style=for-the-badge)](https://github.com/JLykos/plantilla-cv/network)
+[![GitHub stars](https://img.shields.io/github/stars/JLykos/plantilla-cv?style=for-the-badge)](https://github.com/JLykos/plantilla-cv/stargazers)
+
 Esta es una plantilla de uso libre para hacer CV; el código base fue extraido de W3 y modificado por mi persona para realizar ajustes adecuados en la correcta visualización.
 
 ## 🚀 Comenzando ##
